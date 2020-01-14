@@ -7,6 +7,5 @@ dependencies:
     - pandas
     - xarray        # N-d labeled array library
     - matplotlib    # 2D plotting library
-    - mpl_toolkits
     - basemap
     - seaborn       # Statistical visualizations
